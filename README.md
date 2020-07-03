@@ -1,6 +1,4 @@
-Live [Demo](https://mudasirrr.github.io/Bootcamp-part1/).
-
-YouTube [Video To Explain line by line](https://www.youtube.com/watch?v=rfekuYtlGGI&t=704s).
+YouTube [Video To Explain line by line](https://youtu.be/kDANf17gHWc).
 
 ## Available Scripts
 
